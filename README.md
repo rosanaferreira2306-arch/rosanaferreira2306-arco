@@ -9,7 +9,7 @@
 ## 💖 Sobre Mim
 
 ✨ Apaixonada por tecnologia, criatividade e desenvolvimento.  
-📚 Atualmente estudando programação, GitHub e desenvolvimento web.  
+📚 Atualmente estudando pedagogia, programação, GitHub e desenvolvimento web.  
 🚀 Em constante evolução para construir minha carreira na tecnologia.
 
 ---
