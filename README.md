@@ -32,29 +32,6 @@
 🎨 Design Digital  
 🚀 Tecnologia Educacional  
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rosanaferreira2306-arco&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff69b4"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosanaferreira2306-arco&layout=compact&theme=radical&hide_border=true&title_color=ff69b4"/>
-
-</div>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rosanaferreira2306-arco&theme=radical&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4"/>
-
-</div>
-
----
 
 ## 🐍 Animação de Contribuições
 
